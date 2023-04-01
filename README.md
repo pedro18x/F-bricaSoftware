@@ -1,6 +1,6 @@
 
 ---------------------------------------------------------------
-Instalação e configuração
+
 Para instalar e executar este sistema, siga os seguintes passos:
 
 Clone este repositório para a sua máquina local.
