@@ -20,11 +20,17 @@ pip install -r requirements.txt
 ------------------------------------------------------------
 FUNCIONAMENTO SISTEMA CRUD
 
+POST
+
 Cadastro de brinquedos: Permite adicionar informações sobre um novo brinquedo à base de dados, como nome e preço.
 
 Cadastro de lojas: Permite adicionar informações sobre uma nova loja à base de dados, como nome, endereço, telefone.
 
 Cadastro de clientes: Permite adicionar informações sobre um novo cliente à base de dados, como nome, endereço e telefone.
+
+--------------------------------------------------------------------------------------------------------
+
+READ
 
 Listagem de brinquedos: Permite visualizar todos os brinquedos cadastrados na base de dados, incluindo nome e preço
 
@@ -32,11 +38,18 @@ Listagem de lojas: Permite visualizar todas as lojas cadastradas na base de dado
 
 Listagem de clientes: Permite visualizar todos os clientes cadastrados na base de dados, incluindo nome, endereço e telefone.
 
+-------------------------------------------------------------------------------------------------------------------
+
+UPDATE
+
 Atualização de brinquedos: Permite atualizar as informações de um brinquedo existente na base de dados, como nome e preço
 
 Atualização de lojas: Permite atualizar as informações de uma loja existente na base de dados, como nome, endereço, telefone.
 
 Atualização de clientes: Permite atualizar as informações de um cliente existente na base de dados, como nome, telefone e endereço.
+
+-------------------------------------------------------------------
+DELETE
 
 Exclusão de brinquedos: Permite excluir um brinquedo existente na base de dados.
 
