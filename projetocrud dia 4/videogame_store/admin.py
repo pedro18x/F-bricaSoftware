@@ -2,7 +2,7 @@ from django.contrib import admin
 from .models import Jogo, Loja, Cliente
 
 class JogosAdmin(admin.ModelAdmin):
-    list_display = ('nome', 'preco')
+        list_display = ('nome', 'preco')
 
 admin.site.register(Jogo, JogosAdmin)
 
